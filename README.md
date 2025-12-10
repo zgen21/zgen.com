@@ -1,1 +1,3 @@
-# zgen.com
+zgen-landing/
+  ├─ index.html
+  └─ README.md   (optional, but recommended)
